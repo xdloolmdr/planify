@@ -1,8 +1,8 @@
-**Getting Started with Planify**
+# **Getting Started with Planify**
 
 Welcome to Planify, the ultimate app for organizing your life and achieving your goals. Whether you're managing your daily tasks, planning long-term projects, or simply looking for a better way to stay on top of your commitments, Planify is here to help.
 
-**Why Choose Planify?**
+# **Why Choose Planify?**
 
 Planify is designed with simplicity and efficiency in mind. With its intuitive interface and powerful features, you'll have everything you need to:
 
@@ -14,7 +14,7 @@ Planify is designed with simplicity and efficiency in mind. With its intuitive i
 
 - Stay organized across all your devices.
 
-**Getting Started**
+# **Getting Started**
 
 Follow these simple steps to sign up and begin using Planify:
 
@@ -64,5 +64,5 @@ You're all set! Begin by creating your first task or goal, exploring the app's f
 
 If you encounter any issues or have questions, visit our Help Center or contact support at support@planify.com. We're here to make your experience seamless.
 
-Welcome to Planify—where planning meets productivity!
+**Welcome to Planify—where planning meets productivity!**
 
