@@ -1,8 +1,8 @@
-**Settings Overview for Planify**
+# **Settings Overview for Planify**
 
 The Settings section in Planify allows you to tailor the app to your preferences and optimize your planning experience. Below is an overview of the various settings and how to adjust them.
 
-**General Settings**
+# **General Settings**
 
 -**Profile Information**
 
@@ -24,7 +24,7 @@ The Settings section in Planify allows you to tailor the app to your preferences
 
 - Ensure your tasks and reminders align with your local time by setting your time zone.
 
-**Display and Appearance**
+# **Display and Appearance**
 
 -**Themes**
 
@@ -44,7 +44,7 @@ Adjust the font size for better readability:
 
 - Large
 
--**Privacy and Security**
+# **Privacy and Security**
 
 -**Account Privacy**
 
@@ -60,7 +60,7 @@ Adjust the font size for better readability:
 
 - Regularly back up your data to the cloud to prevent loss. You can also restore previous backups.
 
-**Integrations**
+# **Integrations**
 
 -**Calendar Sync**
 
@@ -70,13 +70,13 @@ Adjust the font size for better readability:
 
 - Enable integrations with apps like Slack, Trello, or Asana for a more connected workflow.
 
-**Advanced Settings**
+# **Advanced Settings**
 
 -**Language Preferences**
 
 - Choose your preferred language for the app interface.
 
--**Reset Settings**
+# **Reset Settings**
 
 - Reset all settings to their default values if needed.
 
